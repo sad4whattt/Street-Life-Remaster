@@ -286,7 +286,7 @@ export default function HomePage() {
 
           <div className="border-t border-red-900/30 mt-12 pt-8 text-center">
             <p className="text-gray-500 font-medium">
-              &copy; 2024 Street Life Remaster. Not affiliated with Roblox Corporation. Built for legends.
+              &copy; 2025 Street Life Remastered. Not affiliated with Roblox Corporation. Built for legends.
             </p>
           </div>
         </div>
