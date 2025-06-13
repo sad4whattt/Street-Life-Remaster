@@ -244,7 +244,7 @@ export default function HomePage() {
                   <Crown className="w-5 h-5 text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-white to-red-200 bg-clip-text text-transparent">
-                  Street Life Remaster
+                  Street Life Remastered
                 </span>
               </div>
               <p className="text-gray-400 leading-relaxed font-medium">
