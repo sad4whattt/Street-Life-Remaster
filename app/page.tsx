@@ -207,7 +207,7 @@ export default function HomePage() {
             <CardHeader className="p-8 text-center">
               <CardTitle className="text-white text-2xl font-bold mb-4">Discord Server</CardTitle>
               <CardDescription className="text-gray-400 mb-8 text-lg">
-                Join 7k+ elite players in our exclusive Discord community
+                Join 80k+ elite players in our exclusive Discord community
               </CardDescription>
               <Button className="bg-[#5865F2] hover:bg-[#4752C4] text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105 font-semibold text-lg">
                 Join Discord
