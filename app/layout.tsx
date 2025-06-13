@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "SLR",
   description:
-    "Street Life Remaster - The ultimate hood experience on Roblox. Rule the streets, build your empire, and dominate in the most intense turf wars.",
+    "Street Life Remastered",
   keywords: ["Roblox", "Hood Game", "Street Life", "Gang Wars", "Turf Wars", "SLR"],
   authors: [{ name: "Street Life Remaster Team" }],
   creator: "SLR",
