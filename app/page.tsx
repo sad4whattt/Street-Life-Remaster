@@ -42,7 +42,7 @@ export default function HomePage() {
                 <Crown className="w-5 h-5 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-white to-red-200 bg-clip-text text-transparent">
-                Street Life Remaster
+                Street Life Remastered
               </span>
             </div>
 
@@ -207,7 +207,7 @@ export default function HomePage() {
             <CardHeader className="p-8 text-center">
               <CardTitle className="text-white text-2xl font-bold mb-4">Discord Server</CardTitle>
               <CardDescription className="text-gray-400 mb-8 text-lg">
-                Join 7k+ elite players in our exclusive Discord community
+                Join 80k+ elite players in our exclusive Discord community
               </CardDescription>
               <Button className="bg-[#5865F2] hover:bg-[#4752C4] text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105 font-semibold text-lg">
                 Join Discord
@@ -244,7 +244,7 @@ export default function HomePage() {
                   <Crown className="w-5 h-5 text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-white to-red-200 bg-clip-text text-transparent">
-                  Street Life Remaster
+                  Street Life Remastered
                 </span>
               </div>
               <p className="text-gray-400 leading-relaxed font-medium">
@@ -286,7 +286,7 @@ export default function HomePage() {
 
           <div className="border-t border-red-900/30 mt-12 pt-8 text-center">
             <p className="text-gray-500 font-medium">
-              &copy; 2024 Street Life Remaster. Not affiliated with Roblox Corporation. Built for legends.
+              &copy; 2025 Street Life Remastered. Not affiliated with Roblox Corporation. Built for legends.
             </p>
           </div>
         </div>
