@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   creator: "SLR",
   publisher: "SLR",
   openGraph: {
-    title: "SLR - Street Life Remaster",
+    title: "SLR - Street Life Remastered",
     description: "The ultimate hood experience on Roblox. Rule the streets and build your empire.",
     siteName: "SLR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "SLR - Street Life Remaster",
+    title: "SLR - Street Life Remastered",
     description: "The ultimate hood experience on Roblox. Rule the streets and build your empire.",
     creator: "@SLRGame",
   },
